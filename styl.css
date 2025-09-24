@@ -1,0 +1,32 @@
+body{background-color: rgb(250, 251, 253);
+     font-family: Arial, Helvetica, sans-serif;
+	color: rgb(14, 8, 39);}
+h1{text-align: center;}
+header{background-color: rgb(139, 139, 189);}
+
+nav{width: 200px;
+     height: 150px;
+    line-height:2 ;}
+
+p{width: 600px;
+height: 100px;
+margin-left:  50px; }   
+
+img{width: 300px;
+float: right;
+margin-right: 80px;}
+
+section{width: 90%;
+        height: 300px; 
+        margin:0 auto ;
+     }
+ article{width: 30%;
+          height: 200px;
+     float: left;
+     border: thin solid rgb(7, 0, 0);
+     border-radius: 10px;
+     padding: 30px 5px 0px 5px;
+     margin: 0px 12px 30px 12px;} 
+nav li{list-style-type: none;}   
+table{text-align: center;
+     margin: auto;}
